@@ -1,6 +1,4 @@
 /** Server for auth-api demo. */
-
-
 const app = require("./app");
 
 app.listen(3000, function () {
